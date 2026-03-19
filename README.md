@@ -1,6 +1,4 @@
- I'll create a more detailed, AWS-focused README.md for your project. Since you've only uploaded AWS-related code, I'll emphasize AWS while keeping the structure extensible for future multi-cloud support.
 
-```markdown
 # CloudForge ☁️
 
 <p align="center">
